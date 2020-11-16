@@ -26,17 +26,18 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
 
 <br />
- I am Mukul Raghav, an Android Developer :android: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+I am Mukul Raghav, an Android Developer :android: 
+
+- 🔭 I’m currently working on Android projects 😉
+- 🌱 I’m currently learning flutter and spring.
+- 👯 I’m looking to collaborate on any Android Development project.
+- 💬 Ask me about java, Android.
+- 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28);
+- 📝[Resume]()
+
 
 📈 My GitHub Stats
 
