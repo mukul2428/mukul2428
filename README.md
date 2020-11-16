@@ -1,7 +1,5 @@
 ### Hello, folks 👋
 
-<!--
-**mukul2428/mukul2428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://discord.gg/8GEyCKRT">
   <img align="left" alt="Mukul's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -25,6 +23,9 @@
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/codechef.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
+
+<br />
 I am Mukul Raghav, an Android App Developer :android: 
 
 - 🔭 I’m currently working on ...
