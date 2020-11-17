@@ -29,14 +29,25 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I am Mukul Raghav, an Android Developer :android: 
+I am Mukul Raghav, an Android Developer 🚀 from India, currently I am working as an Android intern at Sparks Foundation. I also have basic knowledge of Kotlin and Spring. I am always curious to learn something new.
+
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on Android projects 😉
-- 🌱 I’m currently learning flutter and spring.
-- 👯 I’m looking to collaborate on any Android Development project.
+- 🌱 I’m currently learning kotlin and spring.
+- 👯 I’m looking to collaborate on any Android project.
 - 💬 Ask me about java, Android.
 - 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28);
-- 📝[Resume]()
+- 📝[Resume](https://drive.google.com/file/d/1pUJZFLGbjqJpISZeSu2Fc_TpMvbth8ga/view?usp=sharing)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/java.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/kotlin.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firebase.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/git.svg"></code>
 
 
 📈 My GitHub Stats
