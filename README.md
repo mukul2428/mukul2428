@@ -37,7 +37,7 @@ I am Mukul Raghav, an Android Developer 🚀 from India, currently I am working 
 - 🌱 I’m currently learning kotlin and spring.
 - 👯 I’m looking to collaborate on any Android project.
 - 💬 Ask me about java, Android.
-- 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28);
+- 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28).
 - 📝[Resume](https://drive.google.com/file/d/1pUJZFLGbjqJpISZeSu2Fc_TpMvbth8ga/view?usp=sharing)
 
 **Languages and Tools:**  
