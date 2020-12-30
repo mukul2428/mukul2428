@@ -8,7 +8,7 @@
   <img align="left" alt="Mukul's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/geeksforgeeks.svg" />
 </a>
 <a href="https://www.codechef.com/users/mukulraghav">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/codechef.svg" />
+  <img align="left" alt="Mukul's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/codechef.svg" />
 </a>
 <a href="https://twitter.com/mukulraghav28">
   <img align="left" alt="Mukul Raghav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,7 +20,7 @@
   <img align="left" alt="Mukul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com/mukulraghav24/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Mukul's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
