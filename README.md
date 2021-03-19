@@ -5,7 +5,7 @@
   <img align="left" alt="Mukul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/mukulraghav28/practice/">
-  <img align="left" alt="Mukul's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/geeksforgeeks.svg" />
+  <img align="left" alt="gfg" width="22px" src="file:///F:/Download/icons8-geeksforgeeks%20(1).svg" />
 </a>
 <a href="https://www.codechef.com/users/mukulraghav">
   <img align="left" alt="Mukul's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/codechef.svg" />
