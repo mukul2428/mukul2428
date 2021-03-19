@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/mukul-raghav-b005b4169">
-  <img align="left" alt="Mukul's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mukul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/mukulraghav28/practice/">
   <img align="left" alt="Mukul's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/geeksforgeeks.svg" />
