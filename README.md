@@ -10,14 +10,8 @@
 <a href="https://www.codechef.com/users/mukulraghav">
   <img align="left" alt="Mukul's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/codechef.svg" />
 </a>
-<a href="https://twitter.com/mukulraghav28">
-  <img align="left" alt="Mukul Raghav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://stackoverflow.com/users/13562206/mukul-raghav?tab=profile">
-  <img align="left" alt="Mukul's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/stackoverflow.svg" />
-</a>
-<a href="https://www.instagram.com/mukul.raghav.3194/">
-  <img align="left" alt="Mukul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/stackoverflow.svg" />
 </a>
 <a href="https://leetcode.com/mukulraghav24/">
   <img align="left" alt="Mukul's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
