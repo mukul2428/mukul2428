@@ -5,16 +5,16 @@
   <img align="left" alt="Mukul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/mukulraghav28/practice/">
-  <img align="left" alt="gfg" width="22px" src="file:///F:/Download/icons8-geeksforgeeks%20(1).svg" />
+  <img align="left" alt="gfg" width="22px" src="https://github.com/mukul2428/Check-IP4/blob/master/icons8-geeksforgeeks.svg" />
 </a>
 <a href="https://www.codechef.com/users/mukulraghav">
-  <img align="left" alt="Mukul's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/codechef.svg" />
+  <img align="left" alt="Mukul's Codechef" width="22px" src="https://github.com/mukul2428/Check-IP4/blob/master/11960354.png" />
 </a>
 <a href="https://stackoverflow.com/users/13562206/mukul-raghav?tab=profile">
-  <img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/stackoverflow.svg" />
+  <img align="left" alt="Stack Overflow" width="22px" src="https://github.com/mukul2428/Check-IP4/blob/master/icons8-stack-overflow.svg" />
 </a>
 <a href="https://leetcode.com/mukulraghav24/">
-  <img align="left" alt="Mukul's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Mukul's Leetcode" width="22px" src="https://github.com/mukul2428/Check-IP4/blob/master/LeetCode_logo_black.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
