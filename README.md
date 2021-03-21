@@ -18,14 +18,15 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
+<br />
 
+I am Mukul Raghav, a passionate self-taught Android Developer 🚀 from India, currently working as an Android intern at Sparks Foundation. I also have basic knowledge of Kotlin and Spring and always curious to learn something new.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-I am Mukul Raghav, an Android Developer 🚀 from India, currently I am working as an Android intern at Sparks Foundation. I also have basic knowledge of Kotlin and Spring. I am always curious to learn something new.
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on Android projects 😉
-- 🌱 I’m currently learning Kotlin,Spring,Javascript.
+- 🔭 Currently working on Android projects 😉
+- 🌱 Learning Kotlin,Spring,Javascript.
 - 👯 I’m looking to collaborate on any Android project.
 - 💬 Ask me about Java, Android.
 - 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28).
