@@ -21,7 +21,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 Hi, I am Mukul Raghav, a passionate self-taught Android Developer 🚀 from India, currently working as an Android intern at Sparks Foundation. I also have basic knowledge of Kotlin and Spring and always curious to learn something new.
-
+<br/>
 **Talking about Personal Stuffs:**
 
 - 🔭 Currently working on Android projects 😉
