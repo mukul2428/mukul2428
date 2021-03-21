@@ -19,8 +19,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
 
-<br />
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 I am Mukul Raghav, an Android Developer 🚀 from India, currently I am working as an Android intern at Sparks Foundation. I also have basic knowledge of Kotlin and Spring. I am always curious to learn something new.
 
@@ -29,7 +27,7 @@ I am Mukul Raghav, an Android Developer 🚀 from India, currently I am working 
 - 🔭 I’m currently working on Android projects 😉
 - 🌱 I’m currently learning Kotlin,Spring,Javascript.
 - 👯 I’m looking to collaborate on any Android project.
-- 💬 Ask me about java, Android.
+- 💬 Ask me about Java, Android.
 - 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28).
 - 📝[Resume](https://drive.google.com/file/d/1pUJZFLGbjqJpISZeSu2Fc_TpMvbth8ga/view?usp=sharing)
 
@@ -39,6 +37,9 @@ I am Mukul Raghav, an Android Developer 🚀 from India, currently I am working 
 <code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/kotlin.png"></code>
 <code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/python.png"></code>
 <code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/mysql.png"></code>
+<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/css.png"></code>
+<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/html.png"></code>
+<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/javascript.png"></code>
 <code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/Firebase.png"></code>
 <code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/git.png"></code>
 
