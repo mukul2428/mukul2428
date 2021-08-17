@@ -20,15 +20,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-Hi, I am Mukul Raghav, a passionate self-taught Android Developer 🚀 from India, currently working as Technical Trainee at Gemini Solutions. I have great knowledge of Java, Android Development, HTML/CSS . Also know a little about Kotlin, Spring and always curious to learn something new.
+Hi, I am Mukul Raghav, a passionate self-taught Android Developer 🚀 from India, currently working as Technical Trainee at Gemini Solutions. I have great knowledge of Java, Android Development, HTML/CSS . Also know a little about Kotlin, JavaScript, Angular and always curious to learn something new.
 
 <br />
 
 #### Talking about Personal Stuffs:
 
 - 🔭 Currently working on Android projects 😉
-- 🌱 Learning Kotlin,Spring,Javascript.
-- 👯 I’m looking to collaborate on any Android project.
+- 🌱 Learning Javascript, NodeJS, Angular.
+- 👯 I’m looking to collaborate on any Android and Web Project.
 - 💬 Ask me about Java, Android.
 - 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28).
 - 📝[Resume](https://drive.google.com/file/d/1HWvQYSaDtkDvMQV_Tn7mz3SUFkz3ERq_/view?usp=sharing)
