@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/mukul-raghav-b005b4169">
-  <img align="left" alt="Mukul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mukul's LinkedIN" width="22px" src="https://github.com/mukul2428/Check-IP4/blob/master/icons8-linkedin-48.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/mukulraghav28/practice/">
   <img align="left" alt="gfg" width="22px" src="https://github.com/mukul2428/Check-IP4/blob/master/icons8-geeksforgeeks.svg" />
@@ -17,9 +17,9 @@
   <img align="left" alt="Mukul's Leetcode" width="22px" src="https://github.com/mukul2428/Check-IP4/blob/master/LeetCode_logo_black.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
+<br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="470" height="320" />
 Hi, I am Mukul Raghav, a passionate self-taught Web Developer 🚀 from India with 2 years of experience. I have great knowledge of Angular, Javascript, HTML/CSS, Java, and Android Development. Also, know a little about Node and React and am always curious to learn something new.
 
 <br />
@@ -27,7 +27,7 @@ Hi, I am Mukul Raghav, a passionate self-taught Web Developer 🚀 from India wi
 #### Talking about Personal Stuff:
 
 - 🔭 Currently working on Node & React Projects 😉
-- 🌱 Learning Javascript, NodeJS, Angular.
+- 🌱 Learning React, NodeJS, AWS.
 - 👯 I’m looking to collaborate on Web Projects.
 - 💬 Ask me about Angular, JavaScript.
 - 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28).
