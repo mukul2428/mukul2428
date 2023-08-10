@@ -20,28 +20,26 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mukul2428.mukul2428)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-Hi, I am Mukul Raghav, a passionate self-taught Android Developer 🚀 from India, currently working as Technical Trainee at Gemini Solutions. I have great knowledge of Java, Android Development, HTML/CSS . Also know a little about Kotlin, JavaScript, Angular and always curious to learn something new.
+Hi, I am Mukul Raghav, a passionate self-taught Web Developer 🚀 from India with 2 years of experience. I have great knowledge of Angular, Javascript, HTML/CSS, Java, and Android Development. Also, know a little about Node and React and am always curious to learn something new.
 
 <br />
 
-#### Talking about Personal Stuffs:
+#### Talking about Personal Stuff:
 
-- 🔭 Currently working on Android projects 😉
+- 🔭 Currently working on Node & React Projects 😉
 - 🌱 Learning Javascript, NodeJS, Angular.
-- 👯 I’m looking to collaborate on any Android and Web Project.
-- 💬 Ask me about Java, Android.
+- 👯 I’m looking to collaborate on Web Projects.
+- 💬 Ask me about Angular, JavaScript.
 - 📫 How to reach me:[@mukulraghav](https://twitter.com/mukulraghav28).
-- 📝[Resume](https://drive.google.com/file/d/1HWvQYSaDtkDvMQV_Tn7mz3SUFkz3ERq_/view?usp=sharing)
+- 📝[Resume]([https://drive.google.com/file/d/1HWvQYSaDtkDvMQV_Tn7mz3SUFkz3ERq_/view?usp=sharing](https://drive.google.com/file/d/1HgOjy9u00KIKuQFXHGiLiqe2FNJtrzxb/view?usp=drivesdk))
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/java.png"></code>
-<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/kotlin.png"></code>
-<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/python.png"></code>
-<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/mysql.png"></code>
-<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/css.png"></code>
-<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/html.png"></code>
 <code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/javascript.png"></code>
+<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/html.png"></code>
+<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/css.png"></code>
+<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/java.png"></code>
+<code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/mysql.png"></code>
 <code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/Firebase.png"></code>
 <code><img height="20" src="https://github.com/mukul2428/Check-IP4/blob/master/git.png"></code>
 
